@@ -8,7 +8,7 @@ This little guide is for pentesters who conduct a **pentest under a contract**. 
 
 ## 1. Traffic dump
 
-You can open **Wireshark** and replay the traffic dump by saving it to a **pcapng** file.
+You can open **Wireshark** and capture the traffic. Save it to a **pcapng** file.
 
 ![](wireshark_dump_one.png)
 
