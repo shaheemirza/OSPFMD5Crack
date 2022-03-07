@@ -1,6 +1,6 @@
 # OSPFMD5Crack
 
-How to crack on OSPF MD5 hash manually
+How to crack on OSPF MD5 hash manually.
 
 This little guide is for pentesters who conduct a pentest under a contract. Do not use this information to destroy other people's networks.
 
