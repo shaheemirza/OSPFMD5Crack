@@ -1,0 +1,15 @@
+admin
+ospf_admin
+cisco_admin
+root
+toor
+password
+cerberus
+cerberus123
+administrator
+c1sc0
+cisc0
+c1sco
+c1$c0
+ospf_root
+secure_ospf
