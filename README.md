@@ -46,7 +46,7 @@ john net-md5-hashes.txt --wordlist=brute.txt
 
 ![](cracked_pass.png)
 
-Let's check the validity of the password and try to connect to the OSPF domain. **Cracked password - c1$c0**
+Let's check the validity of the password and try to connect to the OSPF domain. Using **FRRouting.** **Cracked password - c1$c0**
 
 ![](frr.png)
 
