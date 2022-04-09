@@ -2,7 +2,7 @@
 
 How to crack on OSPF MD5 hash manually
 
-This little guide is for pentesters who conduct a **pentest under a contract**. **Do not use this information to destroy other people's networks.**
+**The author has nothing to do with those who will use this tool for personal purposes to destroy other people's computer networks. The tools are presented for training purposes to help engineers improve the security of their network.**
 
 **ᛝ**
 
